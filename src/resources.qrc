@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+    <file>qml/main.qml</file>
+    <file>qml/icones/fleche_bas.svg</file>
+    <file>qml/icones/fleche_haut.svg</file>
+    <file>qml/icones/fleche_egal.svg</file>
+    <file>qml/icones/001-cloud.svg</file>
+    <file>qml/icones/003-rainy.svg</file>
+    <file>qml/icones/004-rainy-1.svg</file>
+    <file>qml/icones/008-storm.svg</file>
+    <file>qml/icones/009-storm-1.svg</file>
+    <file>qml/icones/011-cloudy.svg</file>
+    <file>qml/icones/013-storm-2.svg</file>
+    <file>qml/icones/034-cloudy-1.svg</file>
+    <file>qml/icones/036-storm-4.svg</file>
+    <file>qml/icones/038-cloudy-3.svg</file>
+    <file>qml/icones/039-sun.svg</file>
+ </qresource>
+</RCC>
